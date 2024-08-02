@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.SingleNumber",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "Leetcode.SingleNumber",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "Arraymethods",
             "request": "launch",
             "mainClass": "MyArrays.Arraymethods",
