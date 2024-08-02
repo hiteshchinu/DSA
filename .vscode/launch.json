@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountPrimesBest",
+            "request": "launch",
+            "mainClass": "Leetcode.CountPrimesBest",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Leetcode.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "CountPrimes",
+            "request": "launch",
+            "mainClass": "Leetcode.CountPrimes",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "BasicMaths.Prime",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "PowerOf2",
             "request": "launch",
             "mainClass": "Leetcode.PowerOf2",
