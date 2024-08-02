@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "Leetcode.ReverseInteger",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "DecBin",
             "request": "launch",
             "mainClass": "BitwiseOperators.DecBin",
