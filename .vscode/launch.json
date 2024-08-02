@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LeetCode2Naive",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.LeetCode2Naive",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode2",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.LeetCode2",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.LeetCode",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "NumberSystem.OddEven",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "NumberSystem.DecimalToBinary",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Quad",
+            "request": "launch",
+            "mainClass": "SpaceTimeComplexity.Quad",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Log",
+            "request": "launch",
+            "mainClass": "SpaceTimeComplexity.Log",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Linear",
+            "request": "launch",
+            "mainClass": "SpaceTimeComplexity.Linear",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Constant",
+            "request": "launch",
+            "mainClass": "SpaceTimeComplexity.Constant",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SpaceTimeComplexity.Main",
+            "projectName": "DSA_5ffdb5de"
+        }
+    ]
+}
