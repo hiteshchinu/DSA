@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arraymethods",
+            "request": "launch",
+            "mainClass": "MyArrays.Arraymethods",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "newMain",
+            "request": "launch",
+            "mainClass": "MyArrays.newMain",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MyArrays.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "Power",
             "request": "launch",
             "mainClass": "Recursion.Power",
