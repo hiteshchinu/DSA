@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Recursion.Power",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "XpowerN",
+            "request": "launch",
+            "mainClass": "Recursion.XpowerN",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Recursion.Sum",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "PrintNums",
+            "request": "launch",
+            "mainClass": "Recursion.PrintNums",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "BasicMaths.Factorial",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "CountPrimesBest",
             "request": "launch",
             "mainClass": "Leetcode.CountPrimesBest",
