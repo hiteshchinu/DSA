@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DecBin",
+            "request": "launch",
+            "mainClass": "BitwiseOperators.DecBin",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "LeetCode2Naive",
             "request": "launch",
             "mainClass": "BitwiseOperators.LeetCode2Naive",
