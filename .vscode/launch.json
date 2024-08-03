@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxDefeatedMonsters",
+            "request": "launch",
+            "mainClass": "MaxDefeatedMonsters",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "SingleNumber",
             "request": "launch",
             "mainClass": "LeetcodeArrays.SingleNumber",
