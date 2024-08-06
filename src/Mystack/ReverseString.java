@@ -1,4 +1,4 @@
-package Mystack;
+package MyStack;
 
 import java.util.Stack;
 

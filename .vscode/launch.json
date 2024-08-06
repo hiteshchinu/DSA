@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseQueue",
+            "request": "launch",
+            "mainClass": "Queues.ReverseQueue",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Queues.Reverse",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Queuee",
+            "request": "launch",
+            "mainClass": "Queues.Queuee",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "Mystack.ReverseString",
