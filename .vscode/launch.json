@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "MyHashMap.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "ques2",
+            "request": "launch",
+            "mainClass": "HashMaps.ques2",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "ques",
+            "request": "launch",
+            "mainClass": "HashMaps.ques",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "dsdcxdc.Main",
             "projectName": "DSA_5ffdb5de"
         },
