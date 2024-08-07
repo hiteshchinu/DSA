@@ -2,14 +2,14 @@ package MyQueue;
 
 import java.util.Arrays;
 
-public class MyQueue {
+public class MyPriorityQueue {
     private int[] items;
     private int front;
     private int rear;
     private int size;
     private int count;
 
-    public MyQueue(int capacity) {
+    public MyPriorityQueue(int capacity) {
         this.items = new int[capacity];
         this.front = -1;
         this.rear = 0;
@@ -23,7 +23,18 @@ public class MyQueue {
             System.out.println("Queue is full");
             return;
         }
-        items[rear] = val;
+
+        int i = 0;
+        for(i = rear; i > 0; i--){
+            if (items[i - 1] <= val) {
+                break;
+            }
+            if(items[i-1] > val){
+                items[i] = items[i - 1];
+            }
+        }
+
+        items[i] = val;
         rear =  (rear + 1) % size;
         count++;
     }

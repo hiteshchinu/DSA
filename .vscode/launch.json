@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainPQ",
+            "request": "launch",
+            "mainClass": "MyQueue.MainPQ",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Queues.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "MainStack",
             "request": "launch",
             "mainClass": "MyQueue.MainStack",
