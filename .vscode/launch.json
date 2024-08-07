@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainStack",
+            "request": "launch",
+            "mainClass": "MyQueue.MainStack",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MyQueue.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "ReverseQueue",
             "request": "launch",
             "mainClass": "Queues.ReverseQueue",
