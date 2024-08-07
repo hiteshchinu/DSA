@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "dsdcxdc.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "abc.main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Hashmaps.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "HashMaps.Main",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
+            "name": "HashMaps",
+            "request": "launch",
+            "mainClass": "HashMaps",
+            "projectName": "DSA_5ffdb5de"
+        },
+        {
+            "type": "java",
             "name": "MainPQ",
             "request": "launch",
             "mainClass": "MyQueue.MainPQ",
